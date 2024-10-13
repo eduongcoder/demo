@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hahaha
 đây là của folder demomo hả hả
+=======
+hahahachinh sua ne
+
+>>>>>>> d7edfaea32fc0f8f615091425efe9cda602e50ee
