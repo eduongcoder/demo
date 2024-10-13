@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Dương hehe
 Nhánh 2 nè
+=======
+Hello Đạt
+>>>>>>> parent of 3ff0913 (update text lun)
